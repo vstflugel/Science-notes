@@ -1,0 +1,27 @@
+Roll No: 2020101058
+Date: 13/09/21 
+
+Important keywords mentioned in today's lecture are:
+1. Quantization of light
+2. KE and Momentum in relativity
+3. Relative simutaneity
+
+
+My understanding of these keywords is:
+
+    1. Quantization of light
+        -Einstein proposed that light contains both nature i.e. it acts both like a wave and a particle. and similar behaviour is seen by matter.
+        -The light is quantized into discrete levels.
+        -Einstein proposed that light contains energy in the form of small packets which he called quanta to explain the photo-electric behaviour. 
+        - The energy is given by h*c/wavelength of light.
+
+    2. KE and Momentum in relativity
+        -In classical mechanics linear momentum p = mv is a useful quantity because it is conserved in a system of particles not acted upon by outside forces.
+        - Momentum is the velocity of the particle. p = γmu
+        - γ is the relativistic constant.
+        - γ = 1/√1−(u/c)2
+
+
+    3. Relative simutaneity
+        -The loss of simultaneity in Special relativity - is that real or created due to the fact that light take time to travel. So even though 2 events are simultaneous but since light takes time to travel, they may not be simultaneous for two different people. 
+        - Given by Einstein, Lorentz, Newton, Maxwell, and others.

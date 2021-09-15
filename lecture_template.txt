@@ -1,0 +1,24 @@
+Roll No: 2020101058
+Date: dd/mm/21 
+
+Important keywords mentioned in today's lecture are:
+1. Keyword1 
+2. Keyword2 
+3. Keyword3 
+
+My understanding of these keywords is:
+
+1. Keyword1
+    - sentence1
+    - sentence2
+    - sentence3
+
+2. Keyword2
+    - sentence1
+    - sentence2
+    - sentence3
+
+3. Keyword3
+    - sentence1
+    - sentence2
+    - sentence3
