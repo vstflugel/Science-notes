@@ -1,0 +1,38 @@
+Roll No: 2020101058
+Date: 16/09/21 
+
+Important keywords mentioned in today's lecture and my understandings are:
+
+Newton invented the concept of inertia.
+    When an object is not experiencing any force then it can stay in its state of rest or of constant of motion.
+    Law of inertia, also called Newton's first law, postulate in physics that, if a body is at rest or moving at a constant speed in a straight line, it will remain at rest or keep moving in a straight line at constant speed unless it is acted upon by a force. 
+    Laws of motion:- by Newton.  
+        inertia
+        Experimental deduction:- force is directly proportional to change in momentum.
+        Interactions  between two object.:- forces will be equal and opposite.
+
+Scalar and Vector Quantities:-
+    A quantity that has magnitude but no particular direction is described as scalar. A quantity that has magnitude and acts in a particular direction is described as vector.
+    In the case of scalar-valued multivariable functions, meaning those with a multidimensional input but a one-dimensional output, the answer is the gradient. The gradient of a function f, denoted as ∇ f \nabla f ∇f , is the collection of all its partial derivatives into a vector
+
+Divergence and curl:-
+    Nabla is a command representation for the nabla differential operator. Thus, is can be used to calculate the gradient, divergence, curl or Laplacian of a function as well.
+    Divergence measures the change in density of a fluid flowing according to a given vector field.
+    In vector calculus, the curl is a vector operator that describes the infinitesimal circulation of a vector field in three-dimensional Euclidean space. ... The curl of a field is formally defined as the circulation density at each point of the field. A vector field whose curl is zero is called irrotational.
+    Divergence is a scalar, that is, a single number, while curl is itself a vector.
+
+Work and it's other form:-
+    In physics, work is the energy transferred to or from an object via the application of force along a displacement.
+    Flux is depicted as "lines" in a plane that contains or intersects electric charge poles or magnetic poles.
+    Flux is the presence of a force field in a specified physical medium, or the flow of energy through a surface.
+    Work is also defined as the change in kinetic energy at different position for constant forces.
+    if the force is coming as a graident of some function then it is also called potential energy.
+    Conservation of energy, principle of physics according to which the energy of interacting bodies or particles in a closed system remains constant. The first kind of energy to be recognized was kinetic energy, or energy of motion.
+    Torque is a measure of how much a force acting on an object causes that object to rotate. ... In other words, torque is the cross product between the distance vector (the distance from the pivot point to the point where force is applied) and the force vector, 'a' being the angle between r and F
+
+Simple pendulum:-
+    A simple harmonic oscillator is an oscillator that is neither driven nor damped. It consists of a mass m, which experiences a single force F, which pulls the mass in the direction of the point x = 0 and depends only on the position x of the mass and a constant k.
+    Home  work calculate kinetic and potential energy of simple pendulum at any instant.
+
+
+Chapter 1,2,3 from the book Marium.
