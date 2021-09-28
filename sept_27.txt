@@ -1,0 +1,34 @@
+Roll No: 2020101058
+Date: 28/09/2021  
+
+Important keywords mentioned in today's lecture and my understandings are:
+
+non-dimensionalization of equation.
+    Nondimensionalization is the partial or full removal of physical dimensions from an equation involving physical quantities by a suitable substitution of variables. ... For example, if a system has an intrinsic resonance frequency, length, or time constant, nondimensionalization can recover these values.
+    They are often derived by combining coefficients from differential equations and are oftentimes a ratio between two physical quantities. The dimensionless numbers can be related to other dimensionless variables or quantities through empirical relations.
+
+Simple harmonic oscillator 
+    Lissajous curve is seen when there is force in the two directions, ie when there are restoring forces in both the x and y coordinates.
+
+Phase plot 
+    A phase-space plot is a parametric graph of the velocity v(t) plotted as a function of the displacement x(t), with the changing variable being time. Phase-space plots are very useful for analyzing more complicated oscillations, especially oscillation that tends towards chaos.
+    The motion represented by the simple harmonic oscillator is termed as free oscillation.
+
+Damped oscillations.
+    it is frequently assumed that the damping force is a linear function of the velocity.
+    Here Beta is the damping parameter.
+    Then there comes:-
+         underdamped motion
+         Critically Damped motion
+         Overdamped motion
+
+Force is obtained as the derivative of potential energy.
+Multiple potential energy minima.
+
+Some keywords which are mentioned but are not covered in depth:-
+
+Focault's pendulum
+2-D Simple harmonic oscillator.
+frequency graphs.
+Calculas of variation.
+brischocrone problem.
