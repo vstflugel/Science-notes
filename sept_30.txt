@@ -1,0 +1,22 @@
+Roll No: 2020101058
+Date: 30/09/2021  
+
+Important keywords mentioned in today's lecture and my understandings are:
+
+Balistochrone problem
+Hamilton Principle.
+    It states that the dynamics of a physical system are determined by a variational problem for a functional based on a single function, the Lagrangian, which may contain all physical information concerning the system and the forces acting on it. The variational problem is equivalent to and allows for the derivation of the differential equations of motion of the physical system. 
+
+Lagrangian mechanics
+    Lagrangian mechanics defines a mechanical system to be a pair ( M , L )   of a configuration space   M and a smooth function L = L ( q , v   , t )  called Lagrangian. By convention, L = T − V ,  where T   and V  are the kinetic and potential energy of the system,
+    Lagrangian Energies.
+
+Euler's equation
+In non cartesian system forces are very difficult to calculate.
+
+Noether's theorem.
+    for every continuous symmetry there is one property that is constant.
+    Time invariance will lead to energy conservation.
+    transalational invariance will lead to momentum conservation.
+    Rotational invariance will lead to angular momentum conservation.
+

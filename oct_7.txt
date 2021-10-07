@@ -1,0 +1,23 @@
+Roll No: 2020101058
+Date: 07/10/2021  
+
+Important keywords mentioned in today's lecture and my understandings are:
+
+Baristochrone problem.
+Lagrangian mechanics
+    Lagrangian mechanics defines a mechanical system to be a pair ( M , L )   of a configuration space   M and a smooth function L = L ( q , v   , t )  called Lagrangian. By convention, L = T − V ,  where T   and V  are the kinetic and potential energy of the system,
+generalized momentum. (in lagrange)
+    Energy is conserved because of the time invarince symmetry (Also Hamultonian is equal to sum of kinetic and potential energy)
+Hamultonian
+    The Hamiltonian of a system is defined to be the sum of the kinetic and potential energies expressed as a function of positions and their conjugate momentum.
+    The solution of Hamilton's equations of motion will yield a trajectory in terms of positions and momenta as functions of time.
+Hamultonian Formulation.
+    if you have generalized coordinates, then by defination it will have 
+Legendre transform
+    One functoin to generate new function.
+First law of thermodynamics
+    The first law of thermodynamics states that energy can neither be created nor destroyed, only altered in form. For any system, energy transfer is associated with mass crossing the control boundary, external work, or heat transfer across the boundary.
+Helmholtz's free energy.
+    F= U - TS, 
+    F is the Helmholtz free energy 
+     the Helmholtz free energy  is a thermodynamic potential that measures the useful work obtainable from a closed thermodynamic system at a constant temperature
