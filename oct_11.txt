@@ -1,0 +1,23 @@
+Roll No: 2020101058
+Date: 11/10/2021  
+
+Important keywords mentioned in today's lecture and my understandings are:
+Conservation of angular momentum
+    -The law of conservation of angular momentum states that when no external torque acts on an object, no change of angular momentum will occur.
+    - When an object is spinning in a closed system and no external torques are applied to it, it will have no change in angular momentum.
+    - The conservation of angular momentum explains the angular acceleration of an ice skater as she brings her arms and legs close to the vertical axis of rotation.
+    - If the net torque is zero, then angular momentum is constant or conserved.
+Kepler's laws-
+    - First Law: Planetary orbits are elliptical with the sun at a focus.
+
+    - Second Law: The radius vector from the sun to a planet sweeps equal areas in equal times.
+
+    - Third Law: The ratio of the square of the period of revolution and the cube of the ellipse semimajor axis is the same for all planets.
+Effective potential energy
+    - The effective potential (also known as effective potential energy) combines multiple, perhaps opposing, effects into a single potential. In its basic form, it is the sum of the 'opposing' centrifugal potential energy with the potential energy of a dynamical system.
+Orbital dynamics (orbits in a central field).
+
+Central force motion
+    - A force is said to be central under two conditions. 
+        - First, the direction of the force must always be toward or away from a fixed point. This point is known as the center of the force. 
+        - Second, the magnitude of the force should only be proportional to the distance r between the particle and the center of the force.

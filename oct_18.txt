@@ -1,0 +1,38 @@
+Roll No: 2020101058
+Date: 18/10/2021  
+Important keywords mentioned in today's lecture
+
+1. Boltzmaan Probability distribution.
+2. Second law of thermodynamics.
+3. Maxwell-Boltzmaan distribution.
+4. Flux density.
+5. Charge density.
+
+My understanding of these keywords is:
+
+1. Boltzmaan Probability distribution:-
+    -The Boltzmann distribution (kinetic energy distribution) is a distribution that describes the amount of kinetic energy that a proportion of gas particles have in a given sample.
+    -It gives the probability that a system will be in a certain state as a function of that state's energy.
+
+2. Second law of thermodynamics:-
+    -The second law of thermodynamics states that the total entropy of an isolated system (the thermal energy per unit temperature that is unavailable for doing useful work) can never decrease.
+    -It talks about entropy.
+    -Energy is not created nor destroyed, but it can change from one energy form to another.
+
+3. Maxwell–Boltzmann distribution:-
+    - Maxwell-Boltzmann Distribution is a probability distribution used for describing the speeds of various particles within a stationary container at a specific temperature.
+    - The distribution is often represented with a graph, with the y-axis defined as the number of molecules and the x-axis defined as the speed.
+    - In short, the graph shows the number of molecules per unit speed.
+    - The total area underneath the distribution curve equates to the total number of molecules in the gas.
+
+4. Flux density:-
+    -The number of lines of force passing through a unit area of material.
+    -Magnetic flux density is defined as the amount of magnetic flux in an area taken perpendicular to the magnetic flux's direction.
+
+5. Charge density:-
+    -The charge density is the measure for the accumulation of electric charge in a given particular field.
+    -The charge density describes how much the electric charge is accumulated in a particular field. Mainly, it finds the charge density per unit volume, surface area, and length.
+    -It measures the amount of electric charge as per the following dimensions:
+        i.   Per unit length
+        ii.  Per unit surface area
+        iii. Per unit volume

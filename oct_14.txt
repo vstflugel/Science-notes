@@ -1,0 +1,26 @@
+Roll No: 2020101058
+Date: 14/10/2021  
+Important keywords mentioned in today's lecture
+
+Liouville's theorem
+Maxwell–Boltzmann distribution
+Kinetic Theory of Gases
+
+My understanding of these keywords is:
+
+Liouville's theorem:-
+    - If an entire function f(z) is bounded for all values of z, then it is constant function.
+    - or it can be said as, if f is regular in whole z-plane and if |f(x)|<k, then f(z) must be a constant function.
+    -The theorem of Liouville only holds true if the particles are infinitely close together otherwise it doesnt.
+Maxwell–Boltzmann distribution:-
+    - Maxwell-Boltzmann Distribution is a probability distribution used for describing the speeds of various particles within a stationary container at a specific temperature.
+    - The distribution is often represented with a graph, with the y-axis defined as the number of molecules and the x-axis defined as the speed.
+    - In short, the graph shows the number of molecules per unit speed.
+    - The total area underneath the distribution curve equates to the total number of molecules in the gas.
+Kinetic Theory of Gases:-
+    - The kinetic theory of gas postulates is useful in the understanding of the macroscopic properties from the microscopic properties.
+        - Gases consist of a large number of tiny particles (atoms and molecules). These particles are extremely small compared to the distance between the particles. The size of the individual particle is considered negligible and most of the volume occupied by the gas is empty space.
+        - These molecules are in constant random motion which results in colliding with each other and with the walls of the container. As the gas molecules collide with the walls of a container, the molecules impart some momentum to the walls. Basically, this results in the production of a force that can be measured. So, if we divide this force by the area it is defined to be the pressure.
+        - The collisions between the molecules and the walls are perfectly elastic. That means when the molecules collide they do not lose kinetic energy. Molecules never slow down and will stay at the same speed.
+        - The average kinetic energy of the gas particles changes with temperature. i.e., The higher the temperature, the higher the average kinetic energy of the gas.
+        - The molecules do not exert any force of attraction or repulsion on one another except during collisions.
