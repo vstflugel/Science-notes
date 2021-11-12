@@ -1,0 +1,31 @@
+Roll No: 2020101058
+Date: 11/11/2021  
+Important keywords mentioned in today's lecture
+
+1. Black body radiation
+2. mode of vibration
+3. wave nature of light
+4. energy quantization
+
+My understanding of these keywords is:
+
+1. Black body radiation
+    - Black-body radiation is the thermal electromagnetic radiation within or surrounding a body in thermodynamic equilibrium with its environment, emitted by a black body (an idealized opaque, non-reflective body).
+    - It has a specific spectrum of wavelengths, inversely related to intensity that depend only on the body's temperature, which is assumed for the sake of calculations and theory to be uniform and constant
+    - All objects with a temperature above absolute zero (0 K) emit energy in the form of electromagnetic radiation.
+    - The radiated energy can be considered to be produced by standing wave or resonant modes of the cavity which is radiating.
+
+2. mode of vibration
+    - A mode of vibration is characterized by a modal frequency and a mode shape. It is numbered according to the number of half waves in the vibration. 
+    - For example, if a vibrating beam with both ends pinned displayed a mode shape of half of a sine wave (one peak on the vibrating beam) it would be vibrating in mode 1.
+    - A mode of vibration can be defined as a way of vibrating, or a pattern of vibration, when applied to a system or structure that has several points with different amplitudes of deflection.
+
+3. wave nature of light
+    - Light is a transverse, electromagnetic wave that can be seen by the typical human. 
+    - The wave nature of light was first illustrated through experiments on diffraction and interference.
+    - Like all electromagnetic waves, light can travel through a vacuum. The transverse nature of light can be demonstrated through polarization.
+    - There are three measurable properties of wave motion: amplitude, wavelength, and frequency. A definitive experiment was Young's double slit experiment, which demonstrated that light shined at two slits in a screen show an interference pattern characteristic of waves of light, rather than particles.
+
+4. energy quantization
+    - Max Planck postulated that energy was quantized and could be emitted or absorbed only in integral multiples of a small unit of energy, known as a quantum.
+    - The energy of a quantum is proportional to the frequency of the radiation; the proportionality constant h is a fundamental constant (Planck's constant).

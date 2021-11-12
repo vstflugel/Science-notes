@@ -1,0 +1,36 @@
+Roll No: 2020101058
+Date: 25/10/2021  
+Important keywords mentioned in today's lecture
+
+1. Brownian motion
+2. Fluctuation dissipation theorem
+3. Light gas
+4. Light according to plank
+5. Ensembles
+
+My understanding of these keywords is:
+
+1. Brownian motion:-
+    - Particles in both liquids and gases (collectively called fluids) move randomly. This is called Brownian motion.
+    - Robert Brown was the first one observed this in 1827.
+    - If a number of particles subject to Brownian motion are present in a given medium and there is no preferred direction for the random oscillations, then over a period of time the particles will tend to be spread evenly throughout the medium.
+    - Brownian Motion Examples
+        - The motion of pollen grains on still water.
+        - Movement of dust motes in a room (although largely affected by air currents)
+
+2. Fluctuation dissipation theorem:-
+    - The fluctuation-dissipation theorem which states that the linear response of a given system to an external perturbation is expressed in terms of fluctuation properties of the system in thermal equilibrium.
+    - This theorem may be represented by a stochastic equation describing the fluctuation, which is a generalization of the familiar Langevin equation in the classical theory of Brownian motion.
+
+3. Light gas:-
+    - The gases which have less mass are known as light gas.
+    - For example: Hydrogen, helium.
+
+4. Light according to plank:-
+    - Planck postulated that the energy of light is proportional to the frequency, and the constant that relates them is known as Planck's constant (h).
+    - His work led to Albert Einstein determining that light exists in discrete quanta of energy, or photons.
+    - Light is a vibration of electromagnetic waves.
+
+5. Ensembles:-
+	- Ensemble is the idealization of a group of large number of microscopically ,independent systems.In such huge systems,some macroscopic quantities like pressure,volume is same for all the constituent systems.
+	- Here the system and surroundings can have partical exchange or energy exchange.

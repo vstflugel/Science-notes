@@ -1,0 +1,28 @@
+Roll No: 2020101058
+Date: 21/10/2021  
+Important keywords mentioned in today's lecture
+
+1. Boson 
+2. Fermion
+3. Superconductivity
+
+My understanding of these keywords is:
+
+1. Boson:-
+    - Boson is a subatomic particle, such as a photon, which has zero or integral spin.
+    - In particle physics, a boson is a type of particle that obeys the rules of Bose-Einstein statistics.
+    - These bosons also have a quantum spin with contains an integer value, such as 0, 1, -1, -2, 2, etc.
+    - Bosons are sometimes called force particles, because it is the bosons that control the interaction of physical forces, such as electromagnetism and possibly even gravity itself.  
+
+2. Fermion:-
+    - Fermion is a subatomic particle, such as a nucleon, which has half-integral spin.
+    - Fermions include particles in the class of leptons (e.g., electrons, muons), baryons (e.g., neutrons, protons, lambda particles), and nuclei of odd mass number (e.g., tritium, helium-3, uranium-233).
+    - In particle physics, a fermion is a type of particle that obeys the rules of Fermi-Dirac statistics, namely the Pauli Exclusion Principle. 
+    - These fermions also have a quantum spin with contains a half-integer value, such as 1/2, -1/2, -3/2, and so on.
+
+3. Superconductivity:-
+    - Superconductivity is a set of physical properties observed in certain materials where electrical resistance vanishes and magnetic flux fields are expelled from the material.
+    - Any material exhibiting these properties is a superconductor.
+    - Unlike an ordinary metallic conductor, whose resistance decreases gradually as its temperature is lowered even down to near absolute zero, a superconductor has a characteristic critical temperature below which the resistance drops abruptly to zero.
+    - The superconductivity phenomenon was discovered in 1911.
+    - These materials also expel magnetic fields as they transition to the superconducting state.
