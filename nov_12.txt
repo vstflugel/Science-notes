@@ -1,5 +1,37 @@
 Roll No: 2020101058
 Date: 12/11/2021  
 Important keywords mentioned in today's lecture
+1.X-rays
+2.Compton effect 
+3.De Broglie's hypothesis 
+4.Schrodinger wave equation
+5.uncertainty principle
 
 My understanding of these keywords is:
+
+1.X-rays
+    - X-rays are a form of electromagnetic radiation, similar to visible light. 
+    - Unlike light, however, x-rays have higher energy and can pass through most objects, including the body.
+    - Wavelengths ranging from about 10−8 to 10−12 metre and corresponding frequencies from about 1016 to 1020 hertz (Hz).
+
+2.Compton effect 
+    - Compton scattering is an example of inelastic scattering of light by a free charged particle, where the wavelength of the scattered light is different from that of the incident radiation.
+    - The effect is significant because it demonstrates that light cannot be explained purely as a wave phenomenon.
+    - The amount by which the light's wavelength changes is called the Compton shift.
+    - Arthur Compton studied this effect in the year 1922. During the study, Compton found that wavelength is not dependent on the intensity of incident radiation.
+3.De Broglie's hypothesis 
+    -  The De Broglie hypothesis proposes that all matter exhibits wave-like properties and relates the observed wavelength of matter to its momentum.
+    - After Albert Einstein's photon theory became accepted, the question became whether this was true only for light or whether material objects also exhibited wave-like behavior.
+    - Lambda = h / p  , where h = planck's constant
+4.Schrodinger wave equation
+    - The Schrödinger equation is a linear partial differential equation that governs the wave function of a quantum-mechanical system.
+    - H * (Si) = E * (Si)
+    where 
+        - H = hamultonian operator
+        - E = energy
+        - Si = Wave function
+    - The wave function is referred to as the free wave function as it represents a particle experiencing zero net force.
+5.uncertainty principle
+    - Heisenberg uncertainty principle states that the position and the velocity of an object cannot both be measured exactly, at the same time.
+    - that is (change in position) * (change in momentum) >= h / ( 4* pie )
+    - Any attempt to measure precisely the velocity of a subatomic particle, such as an electron, will knock it about in an unpredictable way, so that a simultaneous measurement of its position has no validity. This result has nothing to do with inadequacies in the measuring instruments, the technique, or the observer; it arises out of the intimate connection in nature between particles and waves in the realm of subatomic dimensions.
